@@ -1,1 +1,1 @@
-# semanaJs-exerc-cios
+# semanaJs-exercícios
